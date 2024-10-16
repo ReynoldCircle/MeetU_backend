@@ -10,7 +10,7 @@
 [Emerald](https://github.com/HollaWord) , [Benson](https://github.com/chengyu9072) , [Noel](https://github.com/Noelyan1995), [Jayson](https://github.com/jaysonyang503) , [ReynoldYuan](https://github.com/ReynoldCircle)
 
 **MeetU管理後台** 包含以下功能：
-- **所有會員帳號管理、**
+- **所有會員帳號管理**
 - **所有系統通知列表查看、編輯與刪除**
 - **對被檢舉之用戶、活動、評論進行審核**
 
